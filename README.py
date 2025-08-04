@@ -1,1 +1,3 @@
-this is sample build trigger poll scm
+print("This is a sample build triggered by poll SCM.")
+
+
